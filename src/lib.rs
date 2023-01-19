@@ -9,8 +9,8 @@
 use core::panic;
 use reqwest::{blocking::Client, Method, Result};
 
-pub const R_OK: &str = "R_OK";
-pub const R_TRUE: &str = "R_TRUE";
+pub const R_OK: &str = "OK";
+pub const R_TRUE: &str = "YES";
 const R_PONG: &str = "PONG";
 const R_INVALID_CREDENTIALS: &str = "INVALID_CREDENTIALS";
 const R_AUTH_FAILED: &str = "AUTH_FAILED";

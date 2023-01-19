@@ -1,6 +1,6 @@
 [package]
 name = "hyperdb-rs"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 authors = ["Afaan Bilal <hello@afaan.dev>"]
 description = "HyperDB Rust is a Rust client crate for the HyperDB server"
