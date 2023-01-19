@@ -4,7 +4,7 @@ HyperDB Rust Client
 Author: **[Afaan Bilal](https://afaan.dev)**
 
 ## Introduction
-**HyperDB Rust** is a Rust crate for the [HyperDB server](https://github.com/AfaanBilal/hyperdb).
+**HyperDB Rust** is a Rust client crate for the [HyperDB server](https://github.com/AfaanBilal/hyperdb).
 
 ## Installation
 ````
