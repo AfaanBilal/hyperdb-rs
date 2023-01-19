@@ -5,6 +5,9 @@ edition = "2021"
 authors = ["Afaan Bilal <hello@afaan.dev>"]
 description = "HyperDB Rust is a Rust client crate for the HyperDB server"
 license = "MIT"
+repository = "https://github.com/AfaanBilal/hyperdb-rs"
+homepage = "https://github.com/AfaanBilal/hyperdb-rs"
+documentation = "https://github.com/AfaanBilal/hyperdb-rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
