@@ -1,9 +1,11 @@
-/**
- * HyperDB Rust Client
- *
- * @author Afaan Bilal
- * @link   https://afaan.dev
- */
+//!
+//!
+//! HyperDB Rust Client
+//!
+//! Author: [Afaan Bilal](https://afaan.dev)
+//!
+//! Source: [GitHub](https://github.com/AfaanBilal/hyperdb-rs)
+//!
 use core::panic;
 use reqwest::{blocking::Client, Method, Result};
 
